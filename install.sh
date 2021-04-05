@@ -4,8 +4,8 @@ echo "-- installing dev tools --"
 DEBIAN_FRONTEND=noninteractive
 ARG=$1
 
-cd ~/devenv > /dev/null 2>&1
-cd devenv > /dev/null 2>&1
+cd ~/gcp-devenv-setup > /dev/null 2>&1
+cd gcp-devenv-setup > /dev/null 2>&1
 
 # Overwrite last line of output
 overwrite() { 

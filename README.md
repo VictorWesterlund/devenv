@@ -1,13 +1,13 @@
 Installer script for fresh Debian (and possibly Debian-like) enviroments to jump start web development on Google Cloud Platform.
 
 ```
-sudo ~/devenv/install.sh
+sudo ~/gcp-devenv-setup/install.sh
 ```
 
 Using [Cloud Shell](https://cloud.google.com/shell)? Run this command instead:
 
 ```
-sudo ~/devenv/cloudshell.sh
+sudo ~/gcp-devenv-setup/cloudshell.sh
 ```
 ## Packages
 
